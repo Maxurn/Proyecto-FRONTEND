@@ -1,0 +1,9 @@
+.bg-personalizado {
+    background-color: #241d80;
+}
+.color-letras{
+    color: aliceblue;
+}
+.color-letras:hover{
+    color: aqua;
+}
