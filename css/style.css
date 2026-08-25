@@ -7,3 +7,11 @@
 .color-letras:hover{
     color: aqua;
 }
+.color-letras:active{
+    color: aquamarine;
+}
+
+body{
+    background-image: url("../img/bgk.jpg");
+    background-size: cover;
+}
