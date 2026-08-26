@@ -21,6 +21,11 @@ body{
     background-image: none;
 }
 
+.body-fondo2{
+    background-image: url("../img/spiffo2.jpg");
+    background-size: center;
+}
+
 
 
 .imagen-destacada {
